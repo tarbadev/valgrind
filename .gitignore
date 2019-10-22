@@ -1,5 +1,7 @@
 *.o
 
+.idea
+
 # /
 /.in_place
 /.vs
